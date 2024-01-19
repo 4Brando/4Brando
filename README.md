@@ -1,6 +1,6 @@
-<h1>Hey, I'm Brandon! 
+# Hey, I'm Brandon! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects:</h2>
 
 
 
